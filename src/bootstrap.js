@@ -13,3 +13,6 @@ function main() {
 }
 
 document.addEventListener('DOMContentLoaded', main);
+
+def Hi_there():
+    print("hi")
